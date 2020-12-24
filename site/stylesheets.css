@@ -1,0 +1,12 @@
+*{
+	background-color: grey;
+}
+h1{
+	font-size: 60px;
+	text-align: center;
+	font-weight: bold;
+	font-family: helvetica,arial,sansserif;
+}
+div{
+	font-size: 40px;
+}
