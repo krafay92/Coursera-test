@@ -1,5 +1,5 @@
 *{
-	background-color: grey;
+	background-color: #CFF3E0 ;
 	margin: 0px;
 }	
 h1{
@@ -8,6 +8,7 @@ h1{
 	font-weight: bold;
 	font-family: helvetica,arial,sansserif;
 	margin-bottom: 30px;
+	color: #400000 ;
 }
 section{
 	margin-left: 1%;
@@ -21,6 +22,7 @@ section{
     margin-right: 1%;
     margin-left: 1%;
     margin-bottom: 15px;
+    background-color: #F8F803;
 }
 div > div > h2{
 	margin-top: 0px;
@@ -32,12 +34,15 @@ div > div > h2{
 	padding: 3px 3px 3px 3px;
 	float: right;
 	clear: left;
+	background-color: maroon;
+	color: white;
 }
 
 div > div > p{
 	padding: 0px 15px 15px 15px;
 	float: left;
 	clear: right;
+	background-color: #F8F803 ;
 }
 @media(min-width: 992px){
 	
