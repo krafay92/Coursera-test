@@ -3,10 +3,10 @@
 	margin: 0px;
 }	
 h1{
-	font-size: 60px;
+	font-size: 70px;
 	text-align: center;
 	font-weight: bold;
-	font-family: helvetica,arial,sansserif;
+	font-family: monospace;
 	margin-bottom: 30px;
 	color: #400000 ;
 }
@@ -36,6 +36,7 @@ div > div > h2{
 	clear: left;
 	background-color: maroon;
 	color: white;
+	font-family: sans-serif;
 }
 
 div > div > p{
@@ -43,6 +44,8 @@ div > div > p{
 	float: left;
 	clear: right;
 	background-color: #F8F803 ;
+	font-family: poppins;
+	font-family: cursive;
 }
 @media(min-width: 992px){
 	
