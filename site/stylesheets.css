@@ -44,7 +44,6 @@ div > div > p{
 	float: left;
 	clear: right;
 	background-color: #F8F803 ;
-	font-family: poppins;
 	font-family: cursive;
 }
 @media(min-width: 992px){
